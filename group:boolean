@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20180929152851_add_group_to_users.rb
